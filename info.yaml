@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "Priorty Encoder"      # Project title
+  title:        "Priority Encoder"      # Project title
   author:       "inhee-pitt"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "I am testing my Verilog for Tiny Tapeout"      # One line description of what your project does
